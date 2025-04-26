@@ -1,0 +1,10 @@
+*.pth
+*.msi
+*.exe
+*.pdf
+eSpeak/
+venv/
+kokoro/voices
+kokoro/samples
+kokoro/eval
+kokoro/__pycache__
