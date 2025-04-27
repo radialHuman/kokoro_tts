@@ -2,8 +2,10 @@
 *.msi
 *.exe
 *.pdf
+*.wav
 eSpeak/
 venv/
+_venv/
 kokoro/voices
 kokoro/samples
 kokoro/eval

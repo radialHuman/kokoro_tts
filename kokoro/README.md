@@ -113,5 +113,3 @@ The following CC BY audio was part of the dataset used to train Kokoro v1.0.
 - ❤️ Special thanks to all compute sponsors.
 - 👾 Discord server: https://discord.gg/QuGxSWBfQy
 - 🪽 Kokoro is a Japanese word that translates to "heart" or "spirit". It is also the name of an [AI in the Terminator franchise](https://terminator.fandom.com/wiki/Kokoro).
-
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/08/terminator-zero-41-1.jpg" width="400" alt="kokoro" />
