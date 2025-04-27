@@ -3,6 +3,8 @@
 *.exe
 *.pdf
 *.wav
+*.docx
+*.zip
 eSpeak/
 venv/
 _venv/
